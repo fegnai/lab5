@@ -109,10 +109,12 @@ greet("GitHub");
 ### 🖼️ Фото
 
 #### Картинки
-![Смешная белка](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Frussian%2Ffeatures-46233783&psig=AOvVaw3DROmdLg3W3aRbI2EG_JCm&ust=1764230632976000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOis_7Otj5EDFQAAAAAdAAAAABAT)
+![Смешная белка](https://github.com/user-attachments/assets/db03aedd-3d19-40c5-a77d-fdfc8163e820)
+
 
 ####  Собака
-![Мопс](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.pinterest.com%2Fpin%2F92534967357450252%2F&psig=AOvVaw3iypIXFCedfhrlvLxw5w30&ust=1764230842524000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIibipeuj5EDFQAAAAAdAAAAABAE)
+![Мопс](https://github.com/user-attachments/assets/5cd8c1c2-7f97-4f9a-a603-fcb9b4d72a91)
+
 
 ---
 
@@ -261,10 +263,12 @@ Additional examples using various programming languages.
 ### 🖼️  Photo
 
 #### Pictures
-![Funny squirrel](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Frussian%2Ffeatures-46233783&psig=AOvVaw3DROmdLg3W3aRbI2EG_JCm&ust=1764230632976000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOis_7Otj5EDFQAAAAAdAAAAABAT)
+![Funny squirrel](https://github.com/user-attachments/assets/db03aedd-3d19-40c5-a77d-fdfc8163e820)
 
 #### Dog
-![Pug](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.pinterest.com%2Fpin%2F92534967357450252%2F&psig=AOvVaw3iypIXFCedfhrlvLxw5w30&ust=1764230842524000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIibipeuj5EDFQAAAAAdAAAAABAE)
+![Pug](https://github.com/user-attachments/assets/5cd8c1c2-7f97-4f9a-a603-fcb9b4d72a91)
+
+
 
 ---
 

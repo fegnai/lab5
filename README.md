@@ -106,13 +106,13 @@ greet("GitHub");
 
 ---
 
-### 🖼️ Скриншоты
+### 🖼️ Фото
 
-#### Логотип проекта
-![Project Logo](https://via.placeholder.com/600x200/4CAF50/FFFFFF?text=Project+Logo)
+#### Картинки
+![Смешная белка](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Frussian%2Ffeatures-46233783&psig=AOvVaw3DROmdLg3W3aRbI2EG_JCm&ust=1764230632976000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOis_7Otj5EDFQAAAAAdAAAAABAT)
 
-#### Интерфейс приложения
-![App Interface](https://via.placeholder.com/800x400/2196F3/FFFFFF?text=Application+Interface)
+####  Собака
+![Мопс](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.pinterest.com%2Fpin%2F92534967357450252%2F&psig=AOvVaw3iypIXFCedfhrlvLxw5w30&ust=1764230842524000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIibipeuj5EDFQAAAAAdAAAAABAE)
 
 ---
 
@@ -258,13 +258,13 @@ Additional examples using various programming languages.
 
 ---
 
-### 🖼️ Screenshots EN
+### 🖼️  Photo
 
-#### Project Logo
-![Project Logo](https://via.placeholder.com/600x200/4CAF50/FFFFFF?text=Project+Logo)
+#### Pictures
+![Funny squirrel](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bbc.com%2Frussian%2Ffeatures-46233783&psig=AOvVaw3DROmdLg3W3aRbI2EG_JCm&ust=1764230632976000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOis_7Otj5EDFQAAAAAdAAAAABAT)
 
-#### Application Interface
-![App Interface](https://via.placeholder.com/800x400/2196F3/FFFFFF?text=Application+Interface)
+#### Dog
+![Pug](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.pinterest.com%2Fpin%2F92534967357450252%2F&psig=AOvVaw3iypIXFCedfhrlvLxw5w30&ust=1764230842524000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIibipeuj5EDFQAAAAAdAAAAABAE)
 
 ---
 
@@ -309,8 +309,5 @@ Text links:
 
 ### 👨‍💻 Автор / Fegnai
 
-
-📧 Email: your.email@example.com  
-🔗 GitHub: [@yourusername](https://github.com/yourusername)
 
 ---
